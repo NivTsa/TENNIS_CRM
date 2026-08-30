@@ -1,0 +1,44 @@
+{
+  "admin": {
+    "club_id": "admin",
+    "name": "מנהל מערכת",
+    "username": "admin",
+    "salt": "7a4c90597f5eb075f98fd0d7e7dace4f",
+    "password_hash": "ca5fb44f883aeaeaff0a7fc7f75a54adc7546b193a369ed0bb8d6d0bd90aaaf0",
+    "role": "admin",
+    "created_at": "2026-08-30 13:50"
+  },
+  "hapoel-tennis-tlv": {
+    "club_id": "hapoel-tennis-tlv",
+    "name": "Hapoel Tennis TLV",
+    "username": "hapoel_tlv",
+    "salt": "b85ee6be23dd5180fea22d6ca1a1e575",
+    "password_hash": "a3c0388d32ac53e9fabcc9c4e22c88aa0a23d0ae4ebcc7abcb50a722304d391c",
+    "created_at": "2026-08-30 13:50"
+  },
+  "maccabi-haifa-tennis": {
+    "club_id": "maccabi-haifa-tennis",
+    "name": "Maccabi Haifa Tennis",
+    "username": "maccabi_haifa",
+    "salt": "5f5f67c9d1cd307d1fc36487af68e6cd",
+    "password_hash": "0021eb5d4b084b009cef53c7f9289b81bbc80ab944944aaa02d2053949a1fa91",
+    "created_at": "2026-08-30 13:50"
+  },
+  "beer-sheva-racquet-club": {
+    "club_id": "beer-sheva-racquet-club",
+    "name": "Beer Sheva Racquet Club",
+    "username": "bs_racquet",
+    "salt": "4ca4fa3f508575c3fc677b7679e8d0df",
+    "password_hash": "da974da6966130abb840b0ec55f9c23357d72015da2c4caead4877c8cc082925",
+    "created_at": "2026-08-30 13:50"
+  },
+  "demo": {
+    "club_id": "demo",
+    "name": "מועדון הדגמה (DEMO)",
+    "username": "demo",
+    "salt": "67d4245dbf2ab96c053fbf06683dec18",
+    "password_hash": "8e5067fff002b3a6bc2e26a86b4e9f7740e238a669a4450f75e455077cd2af1d",
+    "role": "demo",
+    "created_at": "2026-08-30 15:23"
+  }
+}
